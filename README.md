@@ -4,7 +4,7 @@
 </div>
 
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=22&pause=1000&color=3498DB&center=true&vCenter=true&width=500&lines=Hi+there!+%👋;Welcome+to+my+GitHub+Profile!; I+am+a+Computer+Engineer;Django+Developer;Data+Science+Engineer;I+am+a+Software+Developer; " alt="Typing SVG" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=20&pause=1000&color=3498DB&center=true&vCenter=true&width=550&lines=Hi+there!+👋;Welcome+to+my+GitHub+Profile!;I+am+a+Computer+Engineer;Django+Developer;Data+Science+Engineer;I+am+a+Software+Developer" alt="Typing SVG" />
 </p>
 
 
