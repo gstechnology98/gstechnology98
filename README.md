@@ -4,8 +4,9 @@
 </div>
 
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&pause=1000&color=3498DB&center=true&vCenter=true&width=500&lines=Hi+there!+👋;Welcome+to+my+GitHub+Profile!;I+am+a+Computer+Engineer;Django+Developer;Laravel+Developer;Full+Stack+Developer;Data+Science+Engineer;I+am+a+Software+Developer" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&pause=1000&color=3498DB&center=true&vCenter=true&width=450&lines=Hi+there!+👋;Welcome+to+my+Profile!;I+am+a+Full+Stack+Developer;Data+Science+Engineer" alt="Typing SVG" />
 </p>
+
 
 ## 🌐 Socials:
 [![Facebook](https://img.shields.io/badge/Facebook-%231877F2.svg?logo=Facebook&logoColor=white)](https://facebook.com/lokendra.bhat.7) [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/lokendrabahadurbhat) [![YouTube](https://img.shields.io/badge/YouTube-%23FF0000.svg?logo=YouTube&logoColor=white)](https://youtube.com/@LokendraProgrammer) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:gstechnology97@gmail.com) 
