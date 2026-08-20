@@ -4,7 +4,7 @@
 </div>
 
 <p align="center">
-    <img src = "https://readme-typing-svg.demolab.com?font=Fira+code&weight=700&size=24&pause=1000&color=4598DB&center=true&vCenter=true&width=500&lines=Hi+there!+Welcome+to+my+Profile!;I+am+Computer+Engineer;I+am+a+Full+Stack+Developer;Data+Science+Enginner;Django+and+Laravel+Develover" alt="Typing SVG">
+    <img src = "https://readme-typing-svg.demolab.com?font=Fira+code&weight=700&size=24&pause=1000&color=4598DB&center=true&vCenter=true&width=500&lines=Hi+there!+Welcome+to+my+Profile!;I+am+a+Computer+Engineer;I+am+a+Full+Stack+Developer;Data+Science+Enginner;Django+and+Laravel+Develover" alt="Typing SVG">
 </p>
 
 
